@@ -1,0 +1,6 @@
+/keyDir/*
+/noSignPackage/*
+/output/*
+/res/*
+/unpackage/*
+/node_modules

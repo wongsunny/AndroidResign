@@ -1,0 +1,20 @@
+{
+  "name": "resign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/archiver": "^2.1.3",
+    "@types/fs-extra": "^7.0.0",
+    "archiver": "^3.0.0",
+    "fs-extra": "^8.0.1",
+    "unzipper": "^0.9.11"
+  },
+  "devDependencies": {},
+  "description": ""
+}
